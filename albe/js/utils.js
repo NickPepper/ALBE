@@ -190,8 +190,8 @@
 		 *                          [,error:function({status,response}){ utils context }]}
 		 * @return {xmlHTTPRequest}
 		 *
-	 	 * @author Alexander Kolobov, AgileFusion
-	 	 * @editor Nick Pershin, WWW (response_type added, headers added & other minor improvements)
+	 	 * @author Alexander Kolobov
+	 	 * @editor Nick Pershin (response_type added, headers added & other minor improvements)
 		 */
 		ajax_default_timeout: 30000,
 		ajax : function(params) {
