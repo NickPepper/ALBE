@@ -30,39 +30,41 @@ git config --global user.name "YOUR NAME"
 
 git config --global user.email "YOUR@EMAIL"
 
-git clone https://github.com/agilefusion/epub3-editor
+git clone https://github.com/NickPepper/ALBE.git
 
 
 
 DEVELOPMENT ENVIRONMENT TUNING:
 -------------------------------
 
-See https://github.com/agilefusion/epub3-editor/wiki/HOWTO:-tune-development-environment,-run-the-project-etc.
+Link is broken => TODO
 
 
 
 HOW TO RUN:
 -----------
 
-See https://github.com/agilefusion/epub3-editor/wiki/HOWTO:-tune-development-environment,-run-the-project-etc.
+Link is broken => TODO
 
 
 
 DEBUGGING:
 ----------
 
-See https://github.com/agilefusion/epub3-editor/wiki/HOWTO:-tune-development-environment,-run-the-project-etc.
+Link is broken => TODO
 
 
 
 DEVELOPMENT:
 ------------
 
-See https://github.com/agilefusion/epub3-editor/wiki/Common-code-structure
+Links are broken => TODO
 
-and https://github.com/agilefusion/epub3-editor/wiki/JavaScript-layer
+See /wiki/Common-code-structure
 
-and https://github.com/agilefusion/epub3-editor/wiki/C-layer
+and /JavaScript-layer
+
+and /wiki/C-layer
 
 
 
