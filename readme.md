@@ -1,10 +1,13 @@
 
-Active Learning Book Editor (ALBE) by AgileFusion
-==================================================
+Active Learning Book Editor (ALBE)
+==================================
 
 
 DESCRIPTION:
 ============
+
+It is the Google Chrome application.
+It is not finished yet.
 
 The input data format is .DOCX (Office Open XML).
 
