@@ -3,13 +3,9 @@
  *
  *  Created on: Apr 14, 2015
  *      Author: Nick Pershin
- *      Company: AgileFusion Corp
  *
- *  Last edited on: Apr 26, 2015
+ *  Last edited on: Apr 24, 2016
  *      Editor: Nick Pershin
- *      Company: AgileFusion Corp
- *
- * Copyright (c) 2015 Agile Fusion. All rights reserved.
  */
 
 #ifndef UTILS_H_20150430_111419

@@ -1,5 +1,3 @@
-// Copyright (c) 2015 Agile Fusion. All rights reserved.
-
 /// @file dumb.cc
 /// @author Nick Pershin
 

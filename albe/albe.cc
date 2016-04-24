@@ -1,5 +1,4 @@
 // Copyright (c) 2012 The Chromium Authors. All rights reserved.
-// Copyright (c) 2015 Agile Fusion. All rights reserved.
 
 /// @file albe.cc
 /// @author Nick Pershin

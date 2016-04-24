@@ -3,13 +3,10 @@
  *
  *  Created on: Apr 25, 2015
  *      Author: Nick Pershin
- *      Company: AgileFusion Corp
  *
- *  Last edited on: May 06, 2015
+ *  Last edited on: April 24, 2016
  *      Editor: Nick Pershin
- *      Company: AgileFusion Corp
  *
- * Copyright (c) 2015 Agile Fusion. All rights reserved.
  */
 
 #pragma once

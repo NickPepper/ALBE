@@ -6,7 +6,7 @@
 	'use strict';
 
 	/**
-	 * @author Alexander Kolobov, AgileFusion
+	 * @author Alexander Kolobov
 	 */
 	window.Pish = (function(pish) {
 		var prop, inst;
@@ -52,7 +52,7 @@
 	});
 
 	/**
-	 * @author Alexander Kolobov, AgileFusion (except 'trim' which is written by Nick Pershin, AgileFusion)
+	 * @author Alexander Kolobov (except 'trim' which is written by Nick Pershin)
 	 */
 	window.utils = {
 

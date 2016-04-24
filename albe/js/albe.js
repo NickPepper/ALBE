@@ -1,4 +1,3 @@
-// Copyright (c) 2015 Agile Fusion. All rights reserved.
 // Author: Nick Pershin
 
 (function(win, doc, undef) {
