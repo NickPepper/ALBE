@@ -1,0 +1,64 @@
+{
+    "app": {
+        "background": {
+            "scripts": ["background.js"]
+        }
+    },
+    "manifest_version": 2,
+    "name": "ALBE",
+    "version": "0.0.0.2",
+    "default_locale": "en",
+    "description": "Active Learning Book Editor by AgileFusion",
+    "icons": {
+        "16": "img/icons/icon16.png",
+        "48": "img/icons/icon48.png",
+        "128": "img/icons/icon128.png"
+    },
+    "minimum_chrome_version": "36",
+    "key": "MIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQD3cvBadDjkVMKCOQU58/rcVVaXEzpvl0ehuwjIYuxsdsfng9ivTmA4WxahUL1thXAHd1NrF0M+70VRcEBeIXGziNFcvNzRu+YpDu73k1HA5Ef6gfW82WL6OwXu+znDeeiUXlvVOrglM7tLC4C2BAM7KDWDF2Ak1HsnjO/U1kucZ6Jp+FdpmHsBSiD6EBAM3C+anHcaxEMPfDZdd3pFfDvkXbC/4hOwsUMtAwi2tWMbdNqDLTIp24rZswAaGi/rNeImv/BlurfcSOLg4I6huB3Qu+agwhIrdt2VJN7AaGuQLDjx1/Fq322ALaAyXBBdilbzc5h46XgA/wosy7Leh9HnAgMBAAECggEASqdGlEOUFm7r79W8GevdtzOX2CRY8Om3FrgSwkH2ChMb5GEGsnz20onIngp529zyG46IgDqYcxhE1XkEMmHsp7mTUGM6S5xgp+p1dgPgGk3E2XLz7HG5Rr0f4SWyG6Nf48ND+WSpwa+FxfJGdqNnRiWvX0liHDpunVQL1y5/yUNy/jpFHnuiznSUwObz2JoOkBdnVJ0hAVW4Otx+mhKGcNYk6j06LyWzM/K4d2ozH+OeXHQNcA37czIOfXL85vQjfPzca3KKU/SI1k1HYHYnA/CaYaBvT7i5BBZ5lX2/jrQYZRpQQQl0/Js2oIAdFZvZQxZnBvxGOacDfRHi8qsyQQKBgQD/diNT+C+vlhB/oBVwq7qXkm9KlCvrW+Vl8h84xe91OUPM1//zQWOFxo3LhPiw8U71nIpBdUbXWoqT4SiyVQC2LJD17/oeadw5lHFPtSe1bjcnHkKB6L+3yNcvwZlnK4RSQTrr1MU7q8GcjNuxQeYAcBTi5fihLoeo8t1uSP827wKBgQD3+HoT9FNjcstg9PCQx8FTiYYAgPGo+wZMcyfdWqkZSEcHYJQ6ewKCfkGzxET5tkHiNPbQ9Nw66dOeuXfN8LlPLh/w3++nZefpiKOwEEeY4qconYxX9mA72awGKLc7VkM7dI2fXEg1ynm/pj4psJQ+6Rc2DEt06c7Jh/YJRuNUiQKBgFTt1bjo3hGl9j433mji7tnNWSqWMDPDDXTjFfYt9/ok26GSfglFR+0FocZzoqpQz0tgi6ZPcwnNlByt0nXXRLFMB7V73s+Vqh2KeFFjjJwI1FUw/jNqSbK0FrZNys497XPbM9eLmTbJV0jQm4lGu0yR9p+ojQwpB/jnJS6xHggJAoGACHbNy/KSChn4ATY7I+X9nllaXpgIJ6lx3JgtqyuWDAvgiMruJFTgkA25NmajqBZlh1AhgJ5rCgPDOm7APSJTYPWFF5a9OmyLDvigBbl4iCpsZEGEcdgyDrjuW0N2har7HoNq9h6TRGrF3xnQk2G4nbEdHrYquTHl4hEm/8gQqGkCgYB4+XZCezW1flJTpoBvMlUrNBigrirpaQ9gC7Sjd75jEJnnnjXx5nkGDHDBroYy6wzrDOz1pZPCuYuWAmAROo+E6t6DA/twI8HaVWGA4JPN3dqqhAbBPZhrFjCfO4wRbCFyImJDSOotqnXp1tEQrHjnFHA/oj2sp5fKbfpFQZW1mA==",
+    "oauth2": {
+        "client_id": "903965034255.apps.googleusercontent.com",
+        "scopes": ["https://www.googleapis.com/auth/drive"]
+    },
+    "offline_enabled": true,
+    "permissions": [
+        //"storage",
+        //"syncFileSystem",
+        //"system.cpu",
+        //"system.display",
+        //"system.memory",
+        //"system.network",
+        //"system.storage",
+        //"power",
+        //"geolocation",
+        //"notifications",
+        //"identity",
+        //"idle",
+        //"hid",
+        //"gcm",
+        //"serial",
+        //"documentScan", // DEV chammel only (!)
+        //"vpnProvider",  // DEV chammel only (!)
+        //"clipboardRead",
+        //"clipboardWrite",
+        //"nativeMessaging",
+        //"tts",
+        //"usb",
+        //{"mediaGalleries": ["read", "allAutoDetected"]},
+        //"webview",
+        "unlimitedStorage",
+        {"fileSystem": ["write", "retainEntries", "directory"]}
+    ]//,
+    
+    // below is a hack used ONLY for PNaCL-NaCl App to launch in developer mode (!)
+    // "portable": {
+    //     "pnacl-translate": {
+    //         "url": "albe.pexe",
+    //         "optlevel": 2
+    //     },
+    //     "pnacl-debug": {
+    //         "url": "albe_unstripped.bc",
+    //         "optlevel": 0
+    //     }
+    // }
+}

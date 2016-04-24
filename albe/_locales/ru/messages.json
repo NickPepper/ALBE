@@ -1,0 +1,18 @@
+{
+    "app_title": {
+        "message": "ALBE",
+        "description": "Active Learning Book Editor"
+    },
+    
+    "msg_hello": {
+        "message": "Привет, $USER$",
+        "description": "Поприветствовать пользователя",
+        "placeholders": {
+            "user": {
+                "content": "$1",
+                "example": "Пользователь"
+            }
+        }
+    }
+
+}

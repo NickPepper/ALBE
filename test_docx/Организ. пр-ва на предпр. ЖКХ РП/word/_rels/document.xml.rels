@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Relationships
+    xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+    <Relationship Id="rId8" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.knigafund.ru/authors/22059" TargetMode="External"/>
+    <Relationship Id="rId13" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.knigafund.ru/books/169566" TargetMode="External"/>
+    <Relationship Id="rId18" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.knigafund.ru/authors/26421" TargetMode="External"/>
+    <Relationship Id="rId26" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.knigafund.ru/authors/23098" TargetMode="External"/>
+    <Relationship Id="rId3" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/settings" Target="settings.xml"/>
+    <Relationship Id="rId21" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.knigafund.ru/books/122648" TargetMode="External"/>
+    <Relationship Id="rId34" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/fontTable" Target="fontTable.xml"/>
+    <Relationship Id="rId7" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.knigafund.ru/books/106647" TargetMode="External"/>
+    <Relationship Id="rId12" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.knigafund.ru/authors/22062" TargetMode="External"/>
+    <Relationship Id="rId17" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.knigafund.ru/books/122648" TargetMode="External"/>
+    <Relationship Id="rId25" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.knigafund.ru/books/112648" TargetMode="External"/>
+    <Relationship Id="rId33" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/footer" Target="footer1.xml"/>
+    <Relationship Id="rId2" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles" Target="styles.xml"/>
+    <Relationship Id="rId16" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.knigafund.ru/authors/28759" TargetMode="External"/>
+    <Relationship Id="rId20" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.knigafund.ru/authors/26423" TargetMode="External"/>
+    <Relationship Id="rId29" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.knigafund.ru/authors/28589" TargetMode="External"/>
+    <Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/numbering" Target="numbering.xml"/>
+    <Relationship Id="rId6" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/endnotes" Target="endnotes.xml"/>
+    <Relationship Id="rId11" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.knigafund.ru/authors/22061" TargetMode="External"/>
+    <Relationship Id="rId24" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.knigafund.ru/authors/26423" TargetMode="External"/>
+    <Relationship Id="rId32" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://elibrary.ru/title_about.asp?id=37918" TargetMode="External"/>
+    <Relationship Id="rId5" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/footnotes" Target="footnotes.xml"/>
+    <Relationship Id="rId15" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.knigafund.ru/books/169700" TargetMode="External"/>
+    <Relationship Id="rId23" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.knigafund.ru/authors/26422" TargetMode="External"/>
+    <Relationship Id="rId28" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.knigafund.ru/authors/28588" TargetMode="External"/>
+    <Relationship Id="rId10" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.knigafund.ru/authors/22060" TargetMode="External"/>
+    <Relationship Id="rId19" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.knigafund.ru/authors/26422" TargetMode="External"/>
+    <Relationship Id="rId31" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.knigafund.ru/books/138619" TargetMode="External"/>
+    <Relationship Id="rId4" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/webSettings" Target="webSettings.xml"/>
+    <Relationship Id="rId9" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.knigafund.ru/authors/8132" TargetMode="External"/>
+    <Relationship Id="rId14" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.knigafund.ru/authors/28452" TargetMode="External"/>
+    <Relationship Id="rId22" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.knigafund.ru/authors/26421" TargetMode="External"/>
+    <Relationship Id="rId27" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.knigafund.ru/books/164383" TargetMode="External"/>
+    <Relationship Id="rId30" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink" Target="http://www.knigafund.ru/books/29166" TargetMode="External"/>
+    <Relationship Id="rId35" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/theme" Target="theme/theme1.xml"/>
+</Relationships>

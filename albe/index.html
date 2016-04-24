@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>ALBE - Active Learning Book Editor</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="Expires" content="-1" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta name="description" content="ALBE - Active Learning Book Editor" />
+    <!--meta content="initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0" name="viewport" /-->
+    <!--link href="http://img3.imagesbn.com/resources/images/favicon.ico?cb=2.23.0" type="image/x-icon" rel="icon" /-->
+    <link type="text/css" rel="stylesheet" href="css/albe.css" />
+    <script type="text/javascript" src="js/utils.js"></script>
+    <script type="text/javascript" src="js/common.js"></script>
+    <script type="text/javascript" src="js/albe.js"></script>
+</head>
+
+<!--body data-name="albe" data-custom-load="true" data-tools="pnacl newlib glibc" data-configs="Debug Release" data-path="{tc}/{config}"-->
+<body data-name="albe" data-custom-load="true" data-tools="glibc" data-configs="Debug Release" data-path="{tc}/{config}">
+    <h1 id="apptitle"></h1>
+    <h2>Status: <code id="statusField">NO-STATUS</code></h2>
+    <p>(WARNING: Эта программа содержит ненормативный код! Возрастное ограничение: 30+)<br/>Работает только будучи запущенным как Chrome App (не в окне броузера, но через chrome://extensions/).</p>
+    <p>"Нажмиии на кнопку&nbsp;&mdash;&nbsp;получишь результат..." ©:</p>
+
+    <div style="margin: 0 20px;">
+        <br/>
+        <p><i>Работа с реальной файловой системой пользователя:</i></p>
+        <button id="openextfile">Открыть реальный файл</button>&nbsp;
+        <button id="savetoextdir">Отложить в реальную папку</button>&nbsp;
+        <br/>
+        <br/>
+        <p><i>Работа с shared libraries:</i></p>
+        <button id="dlopen">Потрогать либу at runtime через dlopen()</button>&nbsp;
+        <button id="httpmount">Потрогать linked at launch либу через http mount</button>&nbsp;
+        <!--
+        <br/>
+        <br/>
+        <button id="opfile">Open File</button>
+        <button id="savefile">Save File</button>
+        <button id="makedir">Make Direcory</button>
+        <button id="listdir">List Direcory</button>
+        <button id="deletefd">Delete File/Direcory</button>
+        -->
+        <br/>
+        <br/>
+        <!--div class="funcdiv" id="listDir" hidden>
+            <div>
+                <span>
+                    Directory:
+                    <input type="text" value="/"/>
+                    <button>List Directory</button>
+                </span>
+            </div>
+            Result:
+            <ul id="listDirOutput"></ul>
+        </div-->
+        <pre id="logField"></pre>
+        <!-- The NaCl plugin will be embedded inside the element with id "listener". See common.js -->
+        <div id="listener"></div>
+    </div>
+</body>
+</html>

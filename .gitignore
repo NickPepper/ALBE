@@ -1,0 +1,9 @@
+.DS_Store
+todo.txt
+*.bak
+sdk/
+pnacl/
+unarch_test
+Adobe_RMSDK_20140610_Beta.zip
+albe_bak/
+glibc/
